@@ -18,10 +18,12 @@ use of create-react-app to deploy smart contract
 * paste it on remix ide
 
 * create a account on metamask and add extension to your browser
+
+* use localhost in metamask extension
  
 * download ganache and install and open a quick workspace
  
-* copy a account private and open a account on metamask
+* copy a account private adress and open a account on metamask using that address
 
 * using this account deploy contract on remix
 
